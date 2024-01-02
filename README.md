@@ -1,2 +1,2 @@
 # fitness-tracking system
-This project introduce fitness tracking technology
+This project introduce an innovative fitness solution
